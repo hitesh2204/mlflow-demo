@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/703816412268919181/46c5093714564e55a953219020a77ff6/artifacts
+end_time: 1723876309154
+entry_point_name: ''
+experiment_id: '703816412268919181'
+lifecycle_stage: active
+run_id: 46c5093714564e55a953219020a77ff6
+run_name: unruly-owl-413
+run_uuid: 46c5093714564e55a953219020a77ff6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723876309115
+status: 3
+tags: []
+user_id: User

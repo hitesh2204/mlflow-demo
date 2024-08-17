@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0f818aa876904ed1ba44eed6c9b76248/artifacts
+end_time: 1723875709276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f818aa876904ed1ba44eed6c9b76248
+run_name: grandiose-donkey-484
+run_uuid: 0f818aa876904ed1ba44eed6c9b76248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723875709117
+status: 3
+tags: []
+user_id: User

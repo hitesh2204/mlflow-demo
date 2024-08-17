@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7c9249f27e604f7e94e64881b054bb4f/artifacts
+end_time: 1723875754485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c9249f27e604f7e94e64881b054bb4f
+run_name: bouncy-whale-813
+run_uuid: 7c9249f27e604f7e94e64881b054bb4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723875754389
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/703816412268919181/ac061b3d26ec4c27abcfbaf027cc8273/artifacts
+end_time: 1723877618814
+entry_point_name: ''
+experiment_id: '703816412268919181'
+lifecycle_stage: active
+run_id: ac061b3d26ec4c27abcfbaf027cc8273
+run_name: classy-asp-216
+run_uuid: ac061b3d26ec4c27abcfbaf027cc8273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723877618436
+status: 3
+tags: []
+user_id: User

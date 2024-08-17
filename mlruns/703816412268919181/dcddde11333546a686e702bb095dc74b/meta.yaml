@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/703816412268919181/dcddde11333546a686e702bb095dc74b/artifacts
+end_time: 1723876378234
+entry_point_name: ''
+experiment_id: '703816412268919181'
+lifecycle_stage: active
+run_id: dcddde11333546a686e702bb095dc74b
+run_name: awesome-mole-357
+run_uuid: dcddde11333546a686e702bb095dc74b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723876378193
+status: 3
+tags: []
+user_id: User
