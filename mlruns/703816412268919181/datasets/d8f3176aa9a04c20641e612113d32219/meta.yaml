@@ -1,0 +1,10 @@
+digest: f1755844
+name: dataset
+profile: '{"num_rows": 38, "num_elements": 190}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal length", "required":
+  true}, {"type": "double", "name": "sepal width", "required": true}, {"type": "double",
+  "name": "petal length", "required": true}, {"type": "double", "name": "petal width",
+  "required": true}, {"type": "string", "name": "variety", "required": true}]}'
+source: '{"tags": {"mlflow.user": "User", "mlflow.source.name": "iris-dt.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "a07abb9c11fbf23ecb45301d8991db52c21b370e"}}'
+source_type: code

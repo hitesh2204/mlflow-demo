@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/703816412268919181/b928458b3d3446a18be403ab2ebeefec/artifacts
+deleted_time: 1723895028942
+end_time: 1723894881838
+entry_point_name: ''
+experiment_id: '703816412268919181'
+lifecycle_stage: deleted
+run_id: b928458b3d3446a18be403ab2ebeefec
+run_name: honorable-squid-51
+run_uuid: b928458b3d3446a18be403ab2ebeefec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723894874396
+status: 4
+tags: []
+user_id: User

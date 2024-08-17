@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/703816412268919181/f973ae261c834c35ba4321f04b60d889/artifacts
+end_time: 1723895009571
+entry_point_name: ''
+experiment_id: '703816412268919181'
+lifecycle_stage: active
+run_id: f973ae261c834c35ba4321f04b60d889
+run_name: sincere-wren-271
+run_uuid: f973ae261c834c35ba4321f04b60d889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723895002435
+status: 3
+tags: []
+user_id: User

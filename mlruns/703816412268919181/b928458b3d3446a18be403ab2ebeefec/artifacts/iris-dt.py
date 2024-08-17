@@ -19,7 +19,7 @@ y=df.iloc[:,-1]
 X_train,x_test,y_train,y_test=train_test_split(X,y,test_size=0.25,random_state=42)
 
 ## parameter.
-max_depth=10
+max_depth=5
 
 mlflow.set_experiment('iris-dt')
 ## start mlflow.
@@ -72,8 +72,8 @@ with mlflow.start_run():
     test_df['variety']=y_test
 
     ## converting dataset into mlflow format.
-    train_df=mlflow.data.from_pandas(train_df)
-    test_df=mlflow.data.from_pandas(test_df)
+    train_df=mlflow.data.pandas_dataset(train_df)
+    test_df=mlflow.data.pandas_dataset(test_df)
 
     ## log dataset.
     mlflow.log_input(train_df,'train')
