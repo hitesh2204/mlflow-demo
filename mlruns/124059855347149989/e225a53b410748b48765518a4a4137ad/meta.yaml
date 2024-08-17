@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/e225a53b410748b48765518a4a4137ad/artifacts
+end_time: 1723900842288
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: e225a53b410748b48765518a4a4137ad
+run_name: intelligent-koi-242
+run_uuid: e225a53b410748b48765518a4a4137ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723900831546
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/f4676ec924c247afa1e0908b59e470eb/artifacts
+end_time: 1723900745047
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: f4676ec924c247afa1e0908b59e470eb
+run_name: skillful-midge-6
+run_uuid: f4676ec924c247afa1e0908b59e470eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723900739074
+status: 4
+tags: []
+user_id: User

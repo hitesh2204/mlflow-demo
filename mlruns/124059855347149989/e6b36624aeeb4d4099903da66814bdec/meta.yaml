@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/e6b36624aeeb4d4099903da66814bdec/artifacts
+end_time: 1723901457472
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: e6b36624aeeb4d4099903da66814bdec
+run_name: abundant-flea-45
+run_uuid: e6b36624aeeb4d4099903da66814bdec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901457432
+status: 3
+tags: []
+user_id: User

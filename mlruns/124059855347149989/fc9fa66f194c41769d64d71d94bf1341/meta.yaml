@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/fc9fa66f194c41769d64d71d94bf1341/artifacts
+end_time: 1723901457669
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: fc9fa66f194c41769d64d71d94bf1341
+run_name: awesome-ant-823
+run_uuid: fc9fa66f194c41769d64d71d94bf1341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901457627
+status: 3
+tags: []
+user_id: User

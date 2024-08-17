@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/cb200053059848828fe5aad555a9a066/artifacts
+end_time: 1723901457908
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: cb200053059848828fe5aad555a9a066
+run_name: wistful-trout-196
+run_uuid: cb200053059848828fe5aad555a9a066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901457867
+status: 3
+tags: []
+user_id: User

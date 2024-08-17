@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/adbcdb8a2f28403c9950630b9e57c337/artifacts
+end_time: 1723900924567
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: adbcdb8a2f28403c9950630b9e57c337
+run_name: trusting-trout-484
+run_uuid: adbcdb8a2f28403c9950630b9e57c337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723900912959
+status: 3
+tags: []
+user_id: User

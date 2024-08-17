@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/5c5953c046e74d83a709e3decc4e49c1/artifacts
+end_time: 1723901458199
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 5c5953c046e74d83a709e3decc4e49c1
+run_name: shivering-pig-603
+run_uuid: 5c5953c046e74d83a709e3decc4e49c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901458157
+status: 3
+tags: []
+user_id: User

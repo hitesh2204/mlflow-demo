@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/9631aa66f8f7423486b44205fa220341/artifacts
+end_time: 1723901458249
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 9631aa66f8f7423486b44205fa220341
+run_name: wise-zebra-378
+run_uuid: 9631aa66f8f7423486b44205fa220341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901458206
+status: 3
+tags: []
+user_id: User

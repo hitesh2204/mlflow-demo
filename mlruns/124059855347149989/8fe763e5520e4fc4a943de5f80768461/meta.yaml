@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/8fe763e5520e4fc4a943de5f80768461/artifacts
+end_time: 1723901457425
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 8fe763e5520e4fc4a943de5f80768461
+run_name: sincere-goat-845
+run_uuid: 8fe763e5520e4fc4a943de5f80768461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901457337
+status: 3
+tags: []
+user_id: User

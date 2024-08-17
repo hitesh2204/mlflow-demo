@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/a33cad5e284b4bb0bf76d63deb683118/artifacts
+end_time: 1723901457519
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: a33cad5e284b4bb0bf76d63deb683118
+run_name: puzzled-auk-576
+run_uuid: a33cad5e284b4bb0bf76d63deb683118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901457479
+status: 3
+tags: []
+user_id: User

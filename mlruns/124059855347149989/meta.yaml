@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989
+creation_time: 1723900189846
+experiment_id: '124059855347149989'
+last_update_time: 1723900189846
+lifecycle_stage: active
+name: rf-diabetes-hp

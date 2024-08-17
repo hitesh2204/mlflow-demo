@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/9eacd08b2f294f8c9d361a43b850150d/artifacts
+end_time: 1723901457955
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 9eacd08b2f294f8c9d361a43b850150d
+run_name: whimsical-lamb-619
+run_uuid: 9eacd08b2f294f8c9d361a43b850150d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901457914
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/7552cfc759224d77bd325e24528fa174/artifacts
+end_time: 1723901458099
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 7552cfc759224d77bd325e24528fa174
+run_name: rumbling-bat-46
+run_uuid: 7552cfc759224d77bd325e24528fa174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901458057
+status: 3
+tags: []
+user_id: User

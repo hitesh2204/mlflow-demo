@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/f7d57a23ac70418a8f6b5b4c0f9f3e67/artifacts
+deleted_time: 1723900252038
+end_time: 1723900196085
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: deleted
+run_id: f7d57a23ac70418a8f6b5b4c0f9f3e67
+run_name: legendary-worm-47
+run_uuid: f7d57a23ac70418a8f6b5b4c0f9f3e67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723900190060
+status: 4
+tags: []
+user_id: User

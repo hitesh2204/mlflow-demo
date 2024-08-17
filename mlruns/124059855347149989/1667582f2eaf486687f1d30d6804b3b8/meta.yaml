@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/1667582f2eaf486687f1d30d6804b3b8/artifacts
+end_time: 1723901458150
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 1667582f2eaf486687f1d30d6804b3b8
+run_name: unleashed-mouse-826
+run_uuid: 1667582f2eaf486687f1d30d6804b3b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723901458106
+status: 3
+tags: []
+user_id: User
