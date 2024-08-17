@@ -1,0 +1,10 @@
+digest: 79dedf5c
+name: dataset
+profile: '{"num_rows": 112, "num_elements": 448}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal length", "required":
+  true}, {"type": "double", "name": "sepal width", "required": true}, {"type": "double",
+  "name": "petal length", "required": true}, {"type": "double", "name": "petal width",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "User", "mlflow.source.name": "rf-autolog.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "e6eefcce4321d67eb76e57a4421932be557c171d"}}'
+source_type: code

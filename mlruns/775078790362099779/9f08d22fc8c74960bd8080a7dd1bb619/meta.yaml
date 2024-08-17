@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/775078790362099779/9f08d22fc8c74960bd8080a7dd1bb619/artifacts
+end_time: 1723895885040
+entry_point_name: ''
+experiment_id: '775078790362099779'
+lifecycle_stage: active
+run_id: 9f08d22fc8c74960bd8080a7dd1bb619
+run_name: defiant-mouse-101
+run_uuid: 9f08d22fc8c74960bd8080a7dd1bb619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723895877600
+status: 3
+tags: []
+user_id: User

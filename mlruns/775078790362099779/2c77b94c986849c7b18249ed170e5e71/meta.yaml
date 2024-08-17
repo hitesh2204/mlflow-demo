@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/775078790362099779/2c77b94c986849c7b18249ed170e5e71/artifacts
+end_time: 1723896021370
+entry_point_name: ''
+experiment_id: '775078790362099779'
+lifecycle_stage: active
+run_id: 2c77b94c986849c7b18249ed170e5e71
+run_name: bustling-bat-24
+run_uuid: 2c77b94c986849c7b18249ed170e5e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723896014250
+status: 3
+tags: []
+user_id: User
