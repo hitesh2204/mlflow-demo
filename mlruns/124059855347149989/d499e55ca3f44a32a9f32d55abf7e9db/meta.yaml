@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/d499e55ca3f44a32a9f32d55abf7e9db/artifacts
+end_time: 1723982220757
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: d499e55ca3f44a32a9f32d55abf7e9db
+run_name: invincible-midge-892
+run_uuid: d499e55ca3f44a32a9f32d55abf7e9db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982220684
+status: 3
+tags: []
+user_id: User

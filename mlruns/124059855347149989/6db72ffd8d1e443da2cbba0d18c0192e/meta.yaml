@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/6db72ffd8d1e443da2cbba0d18c0192e/artifacts
+end_time: 1723982885158
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 6db72ffd8d1e443da2cbba0d18c0192e
+run_name: bald-grub-93
+run_uuid: 6db72ffd8d1e443da2cbba0d18c0192e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982885048
+status: 3
+tags: []
+user_id: User

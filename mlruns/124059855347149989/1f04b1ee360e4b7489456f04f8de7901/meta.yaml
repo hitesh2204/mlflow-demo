@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/1f04b1ee360e4b7489456f04f8de7901/artifacts
+end_time: 1723982220489
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 1f04b1ee360e4b7489456f04f8de7901
+run_name: sneaky-seal-44
+run_uuid: 1f04b1ee360e4b7489456f04f8de7901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982220416
+status: 3
+tags: []
+user_id: User

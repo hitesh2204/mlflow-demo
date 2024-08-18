@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/ee6efddde62f40cdb8a5e0f87d416366/artifacts
+end_time: 1723982886651
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: ee6efddde62f40cdb8a5e0f87d416366
+run_name: grandiose-snipe-971
+run_uuid: ee6efddde62f40cdb8a5e0f87d416366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982886579
+status: 3
+tags: []
+user_id: User

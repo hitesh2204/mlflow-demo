@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/3653381805d546d3b091dc898816e4a7/artifacts
+end_time: 1723982887657
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 3653381805d546d3b091dc898816e4a7
+run_name: tasteful-stork-374
+run_uuid: 3653381805d546d3b091dc898816e4a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982887578
+status: 3
+tags: []
+user_id: User

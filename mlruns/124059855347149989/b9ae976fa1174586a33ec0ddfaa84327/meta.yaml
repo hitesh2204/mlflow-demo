@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/b9ae976fa1174586a33ec0ddfaa84327/artifacts
+end_time: 1723982885915
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: b9ae976fa1174586a33ec0ddfaa84327
+run_name: adaptable-loon-360
+run_uuid: b9ae976fa1174586a33ec0ddfaa84327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982885816
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/c70de28e9d9f4786aad2be22464cd9aa/artifacts
+end_time: 1723982586869
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: c70de28e9d9f4786aad2be22464cd9aa
+run_name: crawling-perch-47
+run_uuid: c70de28e9d9f4786aad2be22464cd9aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982586781
+status: 3
+tags: []
+user_id: User

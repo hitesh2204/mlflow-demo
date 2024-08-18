@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/d6ba9bc1ee8c4eab835cef2f485f041f/artifacts
+end_time: 1723982587071
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: d6ba9bc1ee8c4eab835cef2f485f041f
+run_name: abundant-kite-679
+run_uuid: d6ba9bc1ee8c4eab835cef2f485f041f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982587000
+status: 3
+tags: []
+user_id: User

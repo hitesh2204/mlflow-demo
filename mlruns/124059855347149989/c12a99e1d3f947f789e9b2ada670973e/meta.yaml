@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/c12a99e1d3f947f789e9b2ada670973e/artifacts
+end_time: 1723982884736
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: c12a99e1d3f947f789e9b2ada670973e
+run_name: fortunate-squid-629
+run_uuid: c12a99e1d3f947f789e9b2ada670973e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982884618
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/91012dca03dc4ab3bcf6f9047bd4237f/artifacts
+end_time: 1723982586771
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 91012dca03dc4ab3bcf6f9047bd4237f
+run_name: rogue-lynx-488
+run_uuid: 91012dca03dc4ab3bcf6f9047bd4237f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982586684
+status: 3
+tags: []
+user_id: User

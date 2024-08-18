@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/9ab858f9f03e4d4fb753151f897c28e9/artifacts
+end_time: 1723982220402
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 9ab858f9f03e4d4fb753151f897c28e9
+run_name: marvelous-swan-288
+run_uuid: 9ab858f9f03e4d4fb753151f897c28e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982220316
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/f86fc3b6318b45339ba58ada72c68409/artifacts
+end_time: 1723982587164
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: f86fc3b6318b45339ba58ada72c68409
+run_name: tasteful-mole-130
+run_uuid: f86fc3b6318b45339ba58ada72c68409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982587080
+status: 3
+tags: []
+user_id: User

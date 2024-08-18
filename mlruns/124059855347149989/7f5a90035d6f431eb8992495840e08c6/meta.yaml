@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/7f5a90035d6f431eb8992495840e08c6/artifacts
+end_time: 1723982220304
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 7f5a90035d6f431eb8992495840e08c6
+run_name: bright-horse-941
+run_uuid: 7f5a90035d6f431eb8992495840e08c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982220232
+status: 3
+tags: []
+user_id: User

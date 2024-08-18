@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/f2bda8dd57ea44d1895c651d3a2a96cb/artifacts
+end_time: 1723982220580
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: f2bda8dd57ea44d1895c651d3a2a96cb
+run_name: bedecked-cub-782
+run_uuid: f2bda8dd57ea44d1895c651d3a2a96cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982220505
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/57a1e29ce50747758284013248b2dfaf/artifacts
+end_time: 1723982220222
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 57a1e29ce50747758284013248b2dfaf
+run_name: illustrious-deer-910
+run_uuid: 57a1e29ce50747758284013248b2dfaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982220140
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/aa291c52a660479fa7f1993cd42b8b44/artifacts
+end_time: 1723982886181
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: aa291c52a660479fa7f1993cd42b8b44
+run_name: adventurous-rat-592
+run_uuid: aa291c52a660479fa7f1993cd42b8b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982886089
+status: 3
+tags: []
+user_id: User

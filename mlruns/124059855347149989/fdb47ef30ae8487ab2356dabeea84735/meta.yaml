@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/fdb47ef30ae8487ab2356dabeea84735/artifacts
+end_time: 1723982221665
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: fdb47ef30ae8487ab2356dabeea84735
+run_name: aged-koi-226
+run_uuid: fdb47ef30ae8487ab2356dabeea84735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982221552
+status: 3
+tags: []
+user_id: User

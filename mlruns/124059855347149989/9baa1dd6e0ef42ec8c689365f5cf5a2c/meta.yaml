@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/9baa1dd6e0ef42ec8c689365f5cf5a2c/artifacts
+end_time: 1723982588067
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 9baa1dd6e0ef42ec8c689365f5cf5a2c
+run_name: blushing-cow-61
+run_uuid: 9baa1dd6e0ef42ec8c689365f5cf5a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982587986
+status: 3
+tags: []
+user_id: User

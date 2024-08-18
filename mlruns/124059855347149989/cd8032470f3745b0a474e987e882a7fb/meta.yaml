@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/cd8032470f3745b0a474e987e882a7fb/artifacts
+end_time: 1723982886074
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: cd8032470f3745b0a474e987e882a7fb
+run_name: respected-bat-731
+run_uuid: cd8032470f3745b0a474e987e882a7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982886003
+status: 3
+tags: []
+user_id: User

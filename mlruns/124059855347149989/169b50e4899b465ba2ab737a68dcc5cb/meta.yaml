@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/169b50e4899b465ba2ab737a68dcc5cb/artifacts
+end_time: 1723982222191
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 169b50e4899b465ba2ab737a68dcc5cb
+run_name: clumsy-dolphin-360
+run_uuid: 169b50e4899b465ba2ab737a68dcc5cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982222077
+status: 3
+tags: []
+user_id: User

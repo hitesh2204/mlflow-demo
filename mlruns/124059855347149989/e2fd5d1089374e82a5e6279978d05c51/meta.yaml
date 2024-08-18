@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/e2fd5d1089374e82a5e6279978d05c51/artifacts
+end_time: 1723982886930
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: e2fd5d1089374e82a5e6279978d05c51
+run_name: rebellious-gnat-126
+run_uuid: e2fd5d1089374e82a5e6279978d05c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982886845
+status: 3
+tags: []
+user_id: User

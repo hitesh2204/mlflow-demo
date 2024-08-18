@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/cec4d7c5a86149c1b749230afc06ba97/artifacts
+end_time: 1723982885454
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: cec4d7c5a86149c1b749230afc06ba97
+run_name: nimble-shoat-284
+run_uuid: cec4d7c5a86149c1b749230afc06ba97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982885333
+status: 3
+tags: []
+user_id: User

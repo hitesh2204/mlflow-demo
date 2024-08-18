@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723982655906
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1723983289698
+name: diabetes_rf
+run_id: cb4a009b8ebf44ee91c2511dfd5ec359
+run_link: ''
+source: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/cb4a009b8ebf44ee91c2511dfd5ec359/artifacts/rf
+status: READY
+status_message: null
+storage_location: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/cb4a009b8ebf44ee91c2511dfd5ec359/artifacts/rf
+user_id: null
+version: 2

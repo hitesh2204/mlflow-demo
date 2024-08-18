@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/8261aef731e2475eb702560bb90d345b/artifacts
+end_time: 1723982587689
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 8261aef731e2475eb702560bb90d345b
+run_name: worried-lamb-292
+run_uuid: 8261aef731e2475eb702560bb90d345b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982587615
+status: 3
+tags: []
+user_id: User

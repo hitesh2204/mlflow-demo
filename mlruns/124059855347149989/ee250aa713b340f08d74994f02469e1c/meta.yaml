@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/ee250aa713b340f08d74994f02469e1c/artifacts
+end_time: 1723982887106
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: ee250aa713b340f08d74994f02469e1c
+run_name: ambitious-seal-552
+run_uuid: ee250aa713b340f08d74994f02469e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982887018
+status: 3
+tags: []
+user_id: User

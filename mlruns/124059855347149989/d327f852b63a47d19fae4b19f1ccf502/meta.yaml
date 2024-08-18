@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/d327f852b63a47d19fae4b19f1ccf502/artifacts
+end_time: 1723982220672
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: d327f852b63a47d19fae4b19f1ccf502
+run_name: wistful-lynx-674
+run_uuid: d327f852b63a47d19fae4b19f1ccf502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982220591
+status: 3
+tags: []
+user_id: User

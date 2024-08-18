@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlflow_demo/mlruns/124059855347149989/2bf57175d2654e199ceb6a8e7c5f7cf2/artifacts
+end_time: 1723982887278
+entry_point_name: ''
+experiment_id: '124059855347149989'
+lifecycle_stage: active
+run_id: 2bf57175d2654e199ceb6a8e7c5f7cf2
+run_name: resilient-sloth-535
+run_uuid: 2bf57175d2654e199ceb6a8e7c5f7cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723982887202
+status: 3
+tags: []
+user_id: User
